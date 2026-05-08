@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 gcp_env/
 *986.json
+.idea/
+.vscode/
